@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="welcome_header">hi!! I\'m a test!!</string>
+  <string name="app_name">My Applications</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboards</string>
+  <string name="title_notifications">Notifications</string>
+</resources>
